@@ -1,0 +1,6 @@
+- loss=sft
+- model=llama7b
+- datasets=[shp,hh,oasst]
+- exp_name=llama7b_sft
+- mode=train
+- ++cache_dir=/data/models
